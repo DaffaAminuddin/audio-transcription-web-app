@@ -2,6 +2,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 
+Menggunakan model [openai whisper](https://huggingface.co/openai/whisper-small)
+
 <p align="center"><img src="https://github.com/DaffaAminuddin/audio-transcription-web-app/blob/main/image.PNG?raw=true" alt="image"></p>
 
 ## Deskripsi
